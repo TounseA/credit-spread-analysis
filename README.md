@@ -56,7 +56,7 @@ export FRED_API_KEY="your_key_here"
 
 1. Clone this repository
 ```
-.
+git clone https://github.com/TounseA/credit-spread-analysis.git
 ```
 
 2. Optional: Install dependencies
@@ -89,5 +89,6 @@ pip install -r requirements.txt
 </p>
 
 ---
+
 
 > Disclaimer: This project is for educational purposes only, and is not financial advise. 
