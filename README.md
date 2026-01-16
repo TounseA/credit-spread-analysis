@@ -38,7 +38,7 @@ For Windows (PowerShell):
 $env:FRED_API_KEY="your_key_here"
 ```
 
-For macOS/ Linus:
+For macOS/ Linux:
 ```bash
 export FRED_API_KEY="your_key_here"
 ```
@@ -92,3 +92,4 @@ pip install -r requirements.txt
 
 
 > Disclaimer: This project is for educational purposes only, and is not financial advise. 
+
